@@ -41,7 +41,7 @@
         "React"
       ],
       "url": "https://github.com/fabiojnrdev/genai_food",
-      "demo": "Genai Food"
+      "demo": ""
     },
     {
       "title": "API Geek Store",
@@ -55,7 +55,7 @@
         "React"
       ],
       "url": "https://github.com/fabiojnrdev/geek_api",
-      "demo": "Geek Store"
+      "demo": ""
     },
     {
       "title": "FitTrack Pro - Em produção",
@@ -68,7 +68,7 @@
         "API REST"
       ],
       "url": "https://github.com/fabiojnrdev/fitrack-pro",
-      "demo": "FitTrack Pro"
+      "demo": ""
     },
     {
       "title": "Audit System - Em produção",
@@ -82,7 +82,7 @@
         "PostgreSQL"
       ],
       "url": "https://github.com/fabiojnrdev/audit-system",
-      "demo": "Audit System"
+      "demo": ""
     }
   ],
   "skills": [
