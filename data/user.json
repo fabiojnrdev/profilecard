@@ -19,7 +19,7 @@
       "label": "Projetos Em Destaque"
     },
     {
-      "value": "22",
+      "value": "24",
       "label": "Repositórios ao momento"
     }
   ],
@@ -40,8 +40,8 @@
         "JavaScript",
         "React"
       ],
-      "url": "https://github.com/fabiojnrdev",
-      "demo": ""
+      "url": "https://github.com/fabiojnrdev/genai_food",
+      "demo": "Genai Food"
     },
     {
       "title": "API Geek Store",
@@ -55,7 +55,7 @@
         "React"
       ],
       "url": "https://github.com/fabiojnrdev/geek_api",
-      "demo": ""
+      "demo": "Geek Store"
     },
     {
       "title": "FitTrack Pro - Em produção",
@@ -68,7 +68,7 @@
         "API REST"
       ],
       "url": "https://github.com/fabiojnrdev/fitrack-pro",
-      "demo": ""
+      "demo": "FitTrack Pro"
     },
     {
       "title": "Audit System - Em produção",
@@ -82,7 +82,7 @@
         "PostgreSQL"
       ],
       "url": "https://github.com/fabiojnrdev/audit-system",
-      "demo": ""
+      "demo": "Audit System"
     }
   ],
   "skills": [
